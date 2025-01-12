@@ -1,6 +1,6 @@
 # Retail-Analytics-Insights-Customer-Sales-Performance-Data-Analysis
 
-This comprehensive retail analytics project uncovers the intricate relationships between customer behavior, inventory management, marketing effectiveness, and overall business performance. Through advanced SQL analytics and Power BI visualizations, we've transformed complex retail data into actionable insights that tell a compelling story about our business operations.
+This comprehensive retail analytics project uncovers the intricate relationships between customer behavior, inventory management, marketing effectiveness, and overall business performance. Through advanced SQL analytics and Power BI visualizations, I've transformed complex retail data into actionable insights that tell a compelling story about our business operations.
 
 ## Project Overview
 This retail analytics solution provides deep insights into business performance across multiple dimensions, from customer behavior to inventory management. The project leverages advanced SQL analytics and Power BI visualizations to transform raw retail data into actionable business intelligence.
